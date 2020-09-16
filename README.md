@@ -18,7 +18,7 @@ _Compiled for x64, but if necessary i can compile for x86._
 
 **Available getting info (-t param):**
 * cpu
-* ram - two modes
+* ram - two modes **ram module** info
 * po - installed soft
 * gpu
 * bios
