@@ -1,5 +1,5 @@
 # getsysinfo
-Getting system information in command line for zabbix with autodiscovery. 
+Getting system and **hardware** information in command line for zabbix with autodiscovery. 
 
 If you want to use this utility for monitoring (for example zabbix), conveniently store sysinfo.exe on public share with ro permisions.
 
